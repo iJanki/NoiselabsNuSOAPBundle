@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3",
-        "symfony/framework-bundle": "~2.0",
+        "php": ">=5.5.9",
+        "symfony/framework-bundle": "~2.3|~3.0",
         "fergusean/nusoap": "0.9.5"
     },
     "require-dev": {
